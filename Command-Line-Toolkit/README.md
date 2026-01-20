@@ -103,7 +103,7 @@ Each entry includes:
 
 ## Cheat Sheets
 
-- **Quick Reference**: One-page summary of critical commands  
+- [Quick Reference](#quick-reference.md) 
 - **Flowcharts**: Visual troubleshooting paths (e.g., boot issues, network failures)  
 
 ---
